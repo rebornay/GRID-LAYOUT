@@ -7,11 +7,11 @@
 
 
 body {
-    padding-block: 3.5rem ;
     background-color: black;
 }
 
 main {
+    padding-block: 3rem ;
     height: 25rem;
     margin: 0 auto;
     width: 50%;
